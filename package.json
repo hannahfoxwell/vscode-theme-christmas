@@ -1,0 +1,22 @@
+{
+	"name": "theme-christmas",
+	"displayName": "Christmas",
+	"description": "Side effects include feelings of festive cheer",
+	"version": "0.0.1",
+	"publisher": "HannahFoxwell",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Christmas",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Christmas.tmTheme"
+			}
+		]
+	}
+}
